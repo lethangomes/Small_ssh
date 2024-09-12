@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "smallsh.h": "c",
+        "*.tcc": "c",
+        "fstream": "c"
+    }
+}
